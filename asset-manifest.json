@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sivay_Sensor1/static/css/main.6dd251d7.css",
+    "main.js": "/Sivay_Sensor1/static/js/main.494bbb07.js",
+    "index.html": "/Sivay_Sensor1/index.html",
+    "main.6dd251d7.css.map": "/Sivay_Sensor1/static/css/main.6dd251d7.css.map",
+    "main.494bbb07.js.map": "/Sivay_Sensor1/static/js/main.494bbb07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dd251d7.css",
+    "static/js/main.494bbb07.js"
+  ]
+}
