@@ -95,7 +95,7 @@ const LoadIndicator = () => {
               Load Indicator
               </h1>
 <h1 className='font-medium text-[22px] lg:text-[26px] '> ABOUT US:</h1>
-              <p className='text-[17px]'>In addition, our Rudrra Sensor manufactures and supplies high and premium grade load indicators that are both manual and automatic tare controls. In the field of precision manufactured load cells, pressure transducers, and load indicators, Load Masters is one of the top manufacturers and suppliers in the world. We give a product that is both innovative and long-lasting, with no negative consequences. There is no restriction on what you may talk about the product on this number. In addition, also we deliver a product of high quality.</p>
+              <p className='text-[17px]'>In addition, our Sivay Sencor Sensor manufactures and supplies high and premium grade load indicators that are both manual and automatic tare controls. In the field of precision manufactured load cells, pressure transducers, and load indicators, Load Masters is one of the top manufacturers and suppliers in the world. We give a product that is both innovative and long-lasting, with no negative consequences. There is no restriction on what you may talk about the product on this number. In addition, also we deliver a product of high quality.</p>
               <p className='text-[17px]'>Contact us if you have any questions or concerns of any kind.</p>
 
             </div>

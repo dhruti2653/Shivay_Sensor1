@@ -193,8 +193,8 @@ const LoadCell = () => {
                             <hr className='lg:w-[560px] w-[250px] border-black border-[1.5px]'></hr>
                         </h1>
                         <p className='text-[18px]'>
-                            If you have any  questions/queries  related  to  any type of load cells, then feel free to contact the Load Cells experts at Rudrra Sensor, Ahmadabad. We are among the leading manufacturers of different types of load cells in India. You can send us your questions at
-                            <a href="mailto:info@rudrra.com" className='text-blue-500 '>
+                            If you have any  questions/queries  related  to  any type of load cells, then feel free to contact the Load Cells experts at Sivay Sencor Sensor, Ahmadabad. We are among the leading manufacturers of different types of load cells in India. You can send us your questions at
+                            <a href="mailto:info@Sivay Sencor.com" className='text-blue-500 '>
                                 info@sivay.com
                             </a>
                             or call us at

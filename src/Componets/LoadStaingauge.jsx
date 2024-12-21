@@ -77,7 +77,7 @@ const LoadStaingauge = () => {
 Strain Gauge & Adhesive
               </h1>
               <p className='text-[17px]'>Strain Gauges are widely used for physical force measurements in mechanical, marine, aircraft and civil engineering as well as the fields of architecture automobiles and medical science. Strain measured to determine the degree and behavior of forces such as stress or load. Strain Gauge is easy to use and offer a high degree of accuracy and stability. They generally have a simple construction consisting of a fine electric resistance wire or photo-etched metallic resistance foil, together with an electrical insulation base and a set of gauge leads.</p>
-              <p className='text-[17px]'>Rudrra sensor has excellent reputation in manufacturing and supplying Adhesive and Accessories. We also engaged in providing customized product as per need of customers. We have a complete line of adhesive accessories.</p>
+              <p className='text-[17px]'>Sivay Sencor sensor has excellent reputation in manufacturing and supplying Adhesive and Accessories. We also engaged in providing customized product as per need of customers. We have a complete line of adhesive accessories.</p>
               <p className='text-[17px]'>Our exclusive range involves load cell cable, mixing bucket, Teflon tape, pressure pad, heat-resisting tape hot curing service, rubber pencil, cold curing adhesive, tweezers, steel blade brush and many other items.</p>
               <p className='text-[17px]'>These products are manufactured using high-quality components that we acquire from trusted vendors. These are made using the latest technology and premium raw material to ensure optimum quality products.</p>
 

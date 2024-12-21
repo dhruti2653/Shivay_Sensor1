@@ -76,7 +76,7 @@ const LoadAssembly = () => {
               <h1 className='font-bold text-[#3ebbe1] text-[30px] sm:text-[40px] leading-tight'>
               Load Cell Assembly
               </h1>
-              <p className='text-[17px]'>Rudrra sensor has excellent reputation in manufacturing and supplying Adhesive and Accessories. We also engaged in providing customized product as per need of customers. We have a complete line of adhesive accessories.</p>
+              <p className='text-[17px]'>Sivay Sencor sensor has excellent reputation in manufacturing and supplying Adhesive and Accessories. We also engaged in providing customized product as per need of customers. We have a complete line of adhesive accessories.</p>
               <p className='text-[17px]'>Our exclusive range involves load cell cable, mixing bucket, Teflon tape, pressure pad, heat-resisting tape hot curing service, rubber pencil, cold curing adhesive, tweezers, steel blade brush and many other items.</p>
               <p className='text-[17px]'>These products are manufactured using high-quality components that we acquire from trusted vendors. These are made using the latest technology and premium raw material to ensure optimum quality products.</p>
 
