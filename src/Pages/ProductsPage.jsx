@@ -8,7 +8,7 @@ const ProductsPage = () => {
     const products = [
       {
         id: 1,
-        image: "/images/load-cell1.png",
+        image: "/images/load-cell1.jpeg",
         title: "Load Cell",
         link:'/loadcell',
       },
@@ -26,7 +26,7 @@ const ProductsPage = () => {
       },
       {
         id: 4,
-        image: "/images/loadaccessories.jpg",
+        image: "/images/loadaccessories.webp",
         title: "Load Cell Accessories",
         link:'/loadaccessories',
       },

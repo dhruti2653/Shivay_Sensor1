@@ -27,7 +27,7 @@ const ThreeDCarousel = () => {
         { id: 3, imgSrc: "/images/Load-indicator-n.jpeg", title: "Load Indicator" },
         { id: 4, imgSrc: "/images/loadassembly.png", title: "Load Assembly" },
         { id: 5, imgSrc: "/images/straingauge.jpg", title: "Strain Gauge" },
-        { id: 6, imgSrc: "/images/loadaccessories.jpg", title: "Load Accessories" },
+        { id: 6, imgSrc: "/images/loadaccessories.webp", title: "Load Accessories" },
     ];
 
     const nextSlide = () => {

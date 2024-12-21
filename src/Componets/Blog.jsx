@@ -6,7 +6,7 @@ const Blog = () => {
   const blogs = [
     {
       id: 1,
-      image: "/images/blog-1.png",
+      image: "/images/blog-1.jpeg",
       title: "Understanding Beam Type Load Cells",
     },
     {
@@ -21,7 +21,7 @@ const Blog = () => {
     },
     {
       id: 4,
-      image: "/images/blog-4.jpg",
+      image: "/images/blog-4.webp",
       title: "Understanding S-Type Load Cells",
     },
   ];
@@ -47,7 +47,7 @@ const Blog = () => {
                 <img
                   src={blog.image}
                   alt={blog.title}
-                  className="object-cover w-full h-full"
+                  className="object-cover w-full h-[240px]"
                 />
               </div>
 
@@ -57,9 +57,9 @@ const Blog = () => {
                 <h2 className="text-xl font-semibold mb-2 sm:mb-0 sm:flex-1">{blog.title}</h2>
 
                 {/* Button */}
-                <button className="text-white bg-slate-400 hover:bg-black px-4 py-2 font-semibold flex-shrink-0 sm:ml-4">
+                {/* <button className="text-white bg-slate-400 hover:bg-black px-4 py-2 font-semibold flex-shrink-0 sm:ml-4">
                   Read More
-                </button>
+                </button> */}
               </div>
             </div>
           ))}

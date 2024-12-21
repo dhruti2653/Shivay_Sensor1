@@ -4,7 +4,7 @@ const BlogPage = () => {
   const blogs = [
     {
       id: 1,
-      image: "/images/blog-1.png",
+      image: "/images/blog-1.jpeg",
       title: "Understanding Beam Type Load Cells: Design and Functionality Explained",
       content: "Beam type load cells are a cornerstone in the world of weighing technology, known for their accuracy, reliability, and versatility. These load cells are widely used across various industries, from manufacturing and logistics to agriculture and food processing. ",
     },
@@ -16,13 +16,13 @@ const BlogPage = () => {
     },
     {
       id: 3,
-      image: "/images/blog-3.jpg",
+      image: "/images/blog-44.jpeg",
       title: "How to Choose the Right Single Point Platform Load Cell for Your Application",
       content: "Selecting the appropriate single point platform load cell for your application is crucial to ensuring accurate measurements, reliable performance, and longevity of your weighing systems. With a multitude of options available in the market, making the right choice can be daunting. ",
     },
     {
       id: 4,
-      image: "/images/blog-4.jpg",
+      image: "/images/blog-4.webp",
       title: "Understanding S-Type Load Cells: Applications and Benefits",
       content: "In the realm of precise weight measurement and force sensing, S-type load cells stand out as versatile and reliable devices. Whether you are in the manufacturing, transportation, or healthcare sector, understanding the applications and benefits of S-type load cells can greatly enhance the accuracy and efficiency of your operations.",
     },
@@ -47,17 +47,17 @@ const BlogPage = () => {
             {blogs.map((blog) => (
               <div key={blog.id} className="mb-8 flex flex-col md:flex-row  bg-white shadow-md rounded-lg overflow-hidden">
                 {/* Blog Image */}
-                <div className="w-full md:w-1/3 h-48 md:h-auto">
+                <div className="w-full md:w-1/3 h-48 md:h-80">
                   <img src={blog.image} alt={blog.title} className="object-cover w-full h-full" />
                 </div>
 
                 {/* Blog Content */}
-                <div className="w-full md:w-2/3 p-4 md:p-6 ">
+                <div className="w-full md:w-2/3 px-4  ">
                   <h2 className="text-xl md:text-2xl font-semibold mb-2">{blog.title}</h2>
                   <p className="text-gray-700 mb-4">{blog.content}</p>
-                  <button className="text-black hover:text-white bg-slate-400 hover:bg-black p-2 px-4 font-semibold">
+                  {/* <button className="text-black hover:text-white bg-slate-400 hover:bg-black p-2 px-4 font-semibold">
                     Read More
-                  </button>
+                  </button> */}
                 </div>
               </div>
             ))}
