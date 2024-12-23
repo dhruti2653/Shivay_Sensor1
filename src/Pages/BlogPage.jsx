@@ -16,7 +16,7 @@ const BlogPage = () => {
     },
     {
       id: 3,
-      image: "/images/blog-44.jpeg",
+      image: "/images/blogp-3.png",
       title: "How to Choose the Right Single Point Platform Load Cell for Your Application",
       content: "Selecting the appropriate single point platform load cell for your application is crucial to ensuring accurate measurements, reliable performance, and longevity of your weighing systems. With a multitude of options available in the market, making the right choice can be daunting. ",
     },

@@ -15,19 +15,19 @@ const FeaturedService = () => {
       image: "/images/service1.png",
       heading: "dianosis and repaire",
       description:
-        "Lorem ipsum dolor sit amet, cons ect etur elit. Vestibulum nec odios Suspe.",
+        "Sivay Sensors provides expert diagnosis and repair services to ensure your systems operate at peak performance.",
     },
     {
       image: "/images/service2.png",
       heading: "Inastall & Upgrades",
       description:
-        "Lorem ipsum dolor sit amet, cons ect etur elit. Vestibulum nec odios Suspe.",
+        "Sivay Sensors provides professional installation and upgrade services to enhance your system’s performance and reliability.",
     },
     {
       image: "/images/service3.png",
       heading: "Electrical maintenance",
       description:
-        "Lorem ipsum dolor sit amet, cons ect etur elit. Vestibulum nec odios Suspe.",
+        "Sivay Sensors offers comprehensive electrical maintenance services to ensure your systems run efficiently and safely.",
     },
   ];
 
@@ -36,25 +36,25 @@ const FeaturedService = () => {
     {
       heading: "24/7 availality",
       description:
-        "Lorem ipsum dolor sit amet, consectetur elit. Vestibulum nec odio suscipit.",
+        " Sivay Sensors ensure 24/7 availability for seamless performance and uninterrupted operations.",
       icon: <FaRegCalendarTimes className="text-[40px] text-[#3ebbe1] font-medium  " />, // Add the icon directly here
     },
     {
       heading: "Dedicated team",
       description:
-        "Lorem ipsum dolor sit amet, consectetur elit. Vestibulum nec odio suscipit.",
+        "Our dedicated team at Sivay Sensors is committed to delivering exceptional service and tailored solutions.",
       icon: <FaUser className="text-[40px] text-[#3ebbe1] font-medium" />,
     },
     {
       heading: "Guranteed satisfaction",
       description:
-        "Lorem ipsum dolor sit amet, consectetur elit. Vestibulum nec odio suscipit.",
+        "Sivay Sensors guarantees top-quality solutions designed to meet and exceed your expectations.",
       icon: <FaRegThumbsUp className="text-[40px] text-[#3ebbe1] font-medium" />,
     },
     {
       heading: "Free Estimaten",
       description:
-        "Lorem ipsum dolor sit amet, consectetur elit. Vestibulum nec odio suscipit.",
+        "Sivay Sensors offers free estimates to help you plan your perfect        solution with confidence.",
       icon: <FaRegEdit className="text-[40px] text-[#3ebbe1] font-medium" />,
     },
   ];

@@ -15,13 +15,13 @@ const LoadCell = () => {
         },
         {
             id: 2,
-            image: "/images/loadcell-2.png",
+            image: "/images/blog-1.jpeg",
             title: "Beam Type Load Cell",
             // link: '/loadindicator',
         },
         {
             id: 3,
-            image: "/images/loadcell-3.png",
+            image: "/images/loadcell-3.jpg",
             title: "Button Type Load Cell",
             // link: '/loadamplifier',
         },
@@ -45,7 +45,7 @@ const LoadCell = () => {
         },
         {
             id: 7,
-            image: "/images/loadcell-7.png",
+            image: "/images/loadcell-7.gif",
             title: "Double Ended Share Beam Load Cell",
             // link: '/loadstaingauge',
         },
@@ -57,7 +57,7 @@ const LoadCell = () => {
         },
         {
             id: 9,
-            image: "/images/loadcell-9.jpg",
+            image: "/images/loadcell-9.png",
             title: "Web Tension Load Cell",
             // link: '/loadstaingauge',
         },
@@ -73,14 +73,14 @@ const LoadCell = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const images = [
         "/images/single-point-n.jpeg",
-        "/images/loadcell-2.png",
-        "/images/loadcell-3.png",
+        "/images/blog-1.jpeg",
+        "/images/loadcell-3.jpg",
         "/images/compress-load-n.jpeg",
         "/images/pan-cakeload-n.jpeg",
         "/images/s-type-loadcell-n.jpeg",
-        "/images/loadcell-7.png",
+        "/images/loadcell-7.gif",
         "/images/loadcell-8.png",
-        "/images/loadcell-9.jpg",
+        "/images/loadcell-9.png",
         "/images/load-pin-2-n.jpeg",
     ];
 
@@ -193,14 +193,12 @@ const LoadCell = () => {
                             <hr className='lg:w-[560px] w-[250px] border-black border-[1.5px]'></hr>
                         </h1>
                         <p className='text-[18px]'>
-                            If you have any  questions/queries  related  to  any type of load cells, then feel free to contact the Load Cells experts at Sivay Sencor Sensor, Ahmadabad. We are among the leading manufacturers of different types of load cells in India. You can send us your questions at
+                            If you have any  questions/queries  related  to  any type of load cells, then feel free to contact the Load Cells experts at Sivay Sencor Sensor, Ahmadabad. We are among the leading manufacturers of different types of load cells in India. You can send us your questions at  
                             <a href="mailto:info@Sivay Sencor.com" className='text-blue-500 '>
-                                info@sivay.com
-                            </a>
+                              sales@shivaysensor.com                            </a>
                             or call us at
                             <a href="tel:+919824085399" className='text-blue-500'>
-                                +91 98978 89504
-                            </a>
+                            +91 91579 24641                            </a>
                         </p>
 
 

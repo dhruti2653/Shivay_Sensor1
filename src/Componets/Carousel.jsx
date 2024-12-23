@@ -7,13 +7,13 @@ const Carousel = () => {
   const slides = [
     {
       image: "/images/bnn1.jpg",
-      title: "Who is the Title Two",
-      description: "Description for slide two lorem23 Description for slide two lorem23 Description for slide two lorem23 Description for slide two lorem23 ",
+      title: "Empowering Innovations with Sensors",
+      description: "Our cutting-edge technology drives smarter solutions. Elevate your operations with Sivay Sensors. Delivering unparalleled accuracy and reliability. Designed for industrial and commercial excellence. ",
     },
     {
       image: "/images/bnn5.png",
-      title: "Why choose what Title Three",
-      description: "Description for slide three Description for slide two lorem23 for slide three Description for slide two lorem23 Description for slide two lorem23",
+      title: "Trusted Solutions for Modern Challenges",
+      description: "From load cells to amplifiers, we cover it all.  Built to withstand the toughest environments. Sivay Sensors combine advanced technology with precision engineering to deliver unparalleled performance.",
     },
   ];
 
@@ -55,7 +55,7 @@ const Carousel = () => {
           <div className="text-left p-4 rounded lg:pl-28">
             {/* Title */}
             <h2
-              className={`text-4xl font-bold mb-4 transition-all duration-1500 ease-in-out transform ${
+              className={`text-3xl font-bold mb-4 transition-all duration-1500 ease-in-out transform ${
                 currentSlide === index
                   ? "opacity-100 translate-x-0 delay-50"
                   : "opacity-0 translate-x-full"
