@@ -6,25 +6,25 @@ const LoadAccessories = () => {
   const products = [
     {
       id: 1,
-      image: "/images/loadaccessories1.jpg",
+      image: "/images/loadaccessories1.png",
       title: "Junction Box",
       // link: '/loadcell',
     },
     {
       id: 2,
-      image: "/images/loadaccessories2.jpg",
+      image: "/images/loadaccessories2.png",
       title: "Black Cable",
       // link: '/loadindicator',
     },
     {
       id: 3,
-      image: "/images/loadaccessories3.jpg",
+      image: "/images/loadaccessories3.png",
       title: "Blue Cable",
       // link: '/loadindicator',
     },
     {
       id: 4,
-      image: "/images/loadaccessories4.jpg",
+      image: "/images/loadaccessories4.png",
       title: "Broaded Cable",
       // link: '/loadindicator',
     },
