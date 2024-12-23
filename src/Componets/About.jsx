@@ -45,7 +45,7 @@ const About = () => {
             <div className="flex lg:flex-row  mt-7 h-auto flex-col ">
               <div className="lg:w-1/2 pr-5">
                 <p className="lg:-mb-5">
-                  Founded in 2002, Sivay Sencor Sensor is one of the leading manufacturers
+                  Founded in 2002, Sivay Sencor is one of the leading manufacturers
                   and suppliers of Load Cells, S Type Load Cells, Shear Beam Load
                   Cell, Weighing Controller, and other force sensors.</p><br></br> <span className="">Our organization is among the top manufacturers and suppliers of load cells that are well-known for offering the best quality products. As we have a wide range of load cells including S Type and Shear Beam Load Cell, our international customers get exactly what they need. Want to get a free quote? Contact Us.</span>
 
