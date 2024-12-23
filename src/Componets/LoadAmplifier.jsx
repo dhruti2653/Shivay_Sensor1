@@ -8,13 +8,13 @@ const LoadAmplifier = () => {
   const products = [
     {
       id: 1,
-      image: "/images/loadamplifier1.png",
+      image: "/images/blog-2.png",
       title: "RS-10",
       // link: '/loadcell',
     },
     {
       id: 2,
-      image: "/images/loadamplifier2.png",
+      image: "/images/loadamplifier1.png",
       title: "RS-201",
       // link: '/loadindicator',
     },
@@ -24,8 +24,8 @@ const LoadAmplifier = () => {
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const images = [
+    "/images/blog-2.png",
     "/images/loadamplifier1.png",
-    "/images/loadamplifier2.png",
   ];
 
   // Auto-scroll to the next image every 2 seconds

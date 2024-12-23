@@ -8,31 +8,31 @@ const ProductsPage = () => {
     const products = [
       {
         id: 1,
-        image: "/images/load-cell1.png",
+        image: "/images/load-cell1.jpeg",
         title: "Load Cell",
         link:'/loadcell',
       },
       {
         id: 2,
-        image: "/images/load-indicator.png",
+        image: "/images/loadindicator2.webp",
         title: "Load Indicator",
          link:'/loadindicator',
       },
       {
         id: 3,
-        image: "/images/load-amplifier.png",
+        image: "/images/blog-2.png",
         title: "Load Cell Amplifier",
         link:'/loadamplifier',
       },
       {
         id: 4,
-        image: "/images/loadaccessories.jpg",
+        image: "/images/loadaccessories.webp",
         title: "Load Cell Accessories",
         link:'/loadaccessories',
       },
       {
         id: 5,
-        image: "/images/loadassembly.png",
+        image: "/images/loadassembly3.png",
         title: "Load Cell Assembly",
         link:'/loadassembly',
       },

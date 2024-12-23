@@ -24,10 +24,10 @@ const ThreeDCarousel = () => {
     const items = [
         { id: 1, imgSrc: "/images/pan-cakeload-n.jpeg", title: "Load Cell" },
         { id: 2, imgSrc: "/images/load-amplifier.png", title: "Load Amplifier" },
-        { id: 3, imgSrc: "/images/Load-indicator-n.jpeg", title: "Load Indicator" },
+        { id: 3, imgSrc: "/images/loadindicator2.webp", title: "Load Indicator" },
         { id: 4, imgSrc: "/images/loadassembly.png", title: "Load Assembly" },
         { id: 5, imgSrc: "/images/straingauge.jpg", title: "Strain Gauge" },
-        { id: 6, imgSrc: "/images/loadaccessories.jpg", title: "Load Accessories" },
+        { id: 6, imgSrc: "/images/loadaccessories.webp", title: "Load Accessories" },
     ];
 
     const nextSlide = () => {

@@ -7,22 +7,22 @@ const Testimonial = () => {
   const reviews = [
     {
       name: 'John Doe',
-      message: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatae atque vel quas temporibus incidunt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatae atque vel quas temporibus incidunt.',
+      message: "We've been using Sivay Sensor for the past year, and the difference is remarkable. Their precision and reliability have significantly improved our operational efficiency. The team is responsive and knowledgeable, always available to address our needs. We highly recommend Sivay Sensors for anyone looking for cutting-edge technology and exceptional service!",
       image: '/images/testimonial1.webp',
     },
     {
       name: 'Jane Smith',
-      message: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatae atque vel quas temporibus incidunt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatae atque vel quas temporibus incidunt.',
+      message: "We chose Sivay Sensor for their reputation and innovative technology, and they did not disappoint. Their sensors have enhanced our processes, and their maintenance services ensure everything runs smoothly. The team’s commitment to excellence is evident in everything they do. Highly recommend them!",
       image: '/images/testimonial2.webp',
     },
     {
       name: 'Alex Johnson',
-      message: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatae atque vel quas temporibus incidunt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatae atque vel quas temporibus incidunt.',
+      message: "Sivay Sensor has been a game-changer for our company. Their products are incredibly reliable, and the customer support team is always available to offer expert guidance. We've seen a noticeable improvement in the accuracy of our operations. We're excited to continue working with Sivay Sensors for our future needs!",
       image: '/images/testimonial3.webp',
     },
     {
       name: 'Emily Davis',
-      message: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatae atque vel quas temporibus incidunt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatae atque vel quas temporibus incidunt.',
+      message: "Working with Sivay Sensor has been an outstanding experience. Their technology is top-notch, providing us with highly accurate and reliable data. The team is always available for support and quick to resolve any issues. Their commitment to quality and customer satisfaction is truly unmatched. We trust Sivay Sensors for all our sensor needs!",
       image: '/images/testimonial4.webp',
     },
   ];
@@ -56,7 +56,7 @@ const Testimonial = () => {
           <hr className="lg:w-[170px] w-[100px] sm:w-[130px] border-[#3ebbe1] border-b-4" />
           <h1 className="text-[25px] sm:text-[30px] font-medium mt-6">Client Confidence Speaks.</h1>
           <h1 className="text-[16px] sm:text-[20px] text-[#4B5563] pr-6 sm:pr-20 mt-2">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatae atque vel quas temporibus incidunt.
+          Sivay Sensor delivers reliable solutions that inspire trust and drive success across industries.
           </h1>
         </div>
       </div>
