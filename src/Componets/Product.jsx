@@ -24,7 +24,7 @@ const ThreeDCarousel = () => {
     const items = [
         { id: 1, imgSrc: "/images/pan-cakeload-n.jpeg", title: "Load Cell" },
         { id: 2, imgSrc: "/images/load-amplifier.png", title: "Load Amplifier" },
-        { id: 3, imgSrc: "/images/loadindicator2.webp", title: "Load Indicator" },
+        { id: 3, imgSrc: "/images/loadIndicator2.webp", title: "Load Indicator" },
         { id: 4, imgSrc: "/images/loadassembly.png", title: "Load Assembly" },
         { id: 5, imgSrc: "/images/straingauge.jpg", title: "Strain Gauge" },
         { id: 6, imgSrc: "/images/loadaccessories.webp", title: "Load Accessories" },
@@ -66,7 +66,7 @@ const ThreeDCarousel = () => {
                         </h1>
                         <hr className="lg:w-[220px] w-[180px] border-[#3ebbe1] border-b-4" />
                         <p className="mt-10 text-[17px] text-[#898989] lg:pr-32">
-                            At Sivay Sencor Sensor, we ensure that our long list of customers will not have to compromise on quality. We design, develop, and supply high-standard load cells to various industries including Healthcare, Automotive, Aerospace, and more.
+                            At Sivay Sensor, we ensure that our long list of customers will not have to compromise on quality. We design, develop, and supply high-standard load cells to various industries including Healthcare, Automotive, Aerospace, and more.
                         </p>
                     </div>
                 </div>
