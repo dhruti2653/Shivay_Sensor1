@@ -39,13 +39,13 @@ const About = () => {
           {/* Right Side - Text Section */}
           <div className="flex lg:w-1/2 w-full h-auto flex-col justify-center lg:justify-start items-center lg:pl-10 mt-5 lg:mt-0">
             <h1 className="text-center lg:text-left lg:text-[38px] text-[20px] font-bold">
-              Sivay Sencor, Delivering Innovative Solutions as a partner for your weighing
+              Sivay Sensor, Delivering Innovative Solutions as a partner for your weighing
               Journey
             </h1>
             <div className="flex lg:flex-row  mt-7 h-auto flex-col ">
               <div className="lg:w-1/2 pr-5">
                 <p className="lg:-mb-5">
-                  Founded in 2002, Sivay Sencor is one of the leading manufacturers
+                  Founded in 2002, Sivay Sensor is one of the leading manufacturers
                   and suppliers of Load Cells, S Type Load Cells, Shear Beam Load
                   Cell, Weighing Controller, and other force sensors.</p><br></br> <span className="">Our organization is among the top manufacturers and suppliers of load cells that are well-known for offering the best quality products. As we have a wide range of load cells including S Type and Shear Beam Load Cell, our international customers get exactly what they need. Want to get a free quote? Contact Us.</span>
 

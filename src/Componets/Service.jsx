@@ -23,7 +23,7 @@ const Service = () => {
     {
       heading: "UNIVERSAL TESTING MACHINE",
       description:
-        "Sivay Sencor can provide you the best quality load cells for the Universal Testing Machine to test the tensile and compressive strength of different materials.",
+        "Sivay Sensor can provide you the best quality load cells for the Universal Testing Machine to test the tensile and compressive strength of different materials.",
       icon: (
         <FaCog className="text-[55px]   hover:text-white font-medium" />
       ),
@@ -47,7 +47,7 @@ const Service = () => {
     {
       heading: "WEIGHING MACHINERY",
       description:
-        "Sivay Sencor can provide you load cells that fulfill the custom requirements for weighing machinery. We offer highly precise load cells that are useful in trade weighing applications as well.",
+        "Sivay Sensor can provide you load cells that fulfill the custom requirements for weighing machinery. We offer highly precise load cells that are useful in trade weighing applications as well.",
       icon: (
         <FaWeight className="text-[55px]  hover:text-white  font-medium" />
       ),
@@ -61,11 +61,11 @@ const Service = () => {
       </h1>
       <hr className="lg:w-[220px] w-[180px] border-[#3ebbe1] border-b-4" />
       <p className="mt-10 text-[17px] text-[#898989]">
-        At Sivay Sencor , we have the best in-house manufacturing team who
+        At Sivay Sensor , we have the best in-house manufacturing team who
         ensures that our long list of customers will not have to compromise with
         the product quality or functionality. Double-checking the products and
         process thoroughly from designing to testing, we are offering the
-        highest-standard load cells. Sivay Sencor Sensor has been implementing modern
+        highest-standard load cells. Sivay Sensor has been implementing modern
         manufacturing tactics along with state-of-the-art equipment to design
         and develop S Type Load Cells, Shear Beam Load Cells, Weighing
         Controller, and other measuring sensors. We manufacture and supply load
