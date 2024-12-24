@@ -14,7 +14,7 @@ const ProductsPage = () => {
       },
       {
         id: 2,
-        image: "/images/loadindicator2.webp",
+        image: "/images/loadIndicator2.webp",
         title: "Load Indicator",
          link:'/loadindicator',
       },
