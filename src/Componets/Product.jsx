@@ -23,7 +23,7 @@ const ThreeDCarousel = () => {
     const [currentThemeIndex, setCurrentThemeIndex] = useState(0);
     const items = [
         { id: 1, imgSrc: "/images/pan-cakeload-n.jpeg", title: "Load Cell" },
-        { id: 2, imgSrc: "/images/load-amplifier.png", title: "Load Amplifier" },
+        { id: 2, imgSrc: "/images/blog-2.png", title: "Load Amplifier" },
         { id: 3, imgSrc: "/images/loadIndicator2.webp", title: "Load Indicator" },
         { id: 4, imgSrc: "/images/loadassembly3.png", title: "Load Assembly" },
         { id: 5, imgSrc: "/images/straingauge.jpg", title: "Strain Gauge" },
