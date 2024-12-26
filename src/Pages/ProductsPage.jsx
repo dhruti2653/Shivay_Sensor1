@@ -18,12 +18,12 @@ const ProductsPage = () => {
         title: "Load Indicator",
          link:'/loadindicator',
       },
-      {
-        id: 3,
-        image: "/images/blog-2.png",
-        title: "Load Cell Amplifier",
-        link:'/loadamplifier',
-      },
+      // {
+      //   id: 3,
+      //   image: "/images/blog-2.png",
+      //   title: "Load Cell Amplifier",
+      //   link:'/loadamplifier',
+      // },
       {
         id: 4,
         image: "/images/loadaccessories.webp",
@@ -36,12 +36,12 @@ const ProductsPage = () => {
         title: "Load Cell Assembly",
         link:'/loadassembly',
       },
-      {
-        id: 6,
-        image: "/images/straingauge.jpg",
-        title: "Stain Gauge & Adhesive",
-        link:'/loadstaingauge',
-      },
+      // {
+      //   id: 6,
+      //   image: "/images/straingauge.jpg",
+      //   title: "Stain Gauge & Adhesive",
+      //   link:'/loadstaingauge',
+      // },
 
     ];
 
@@ -57,7 +57,7 @@ const ProductsPage = () => {
             
 
              {/* Blog Posts - Using Grid for two columns */}
-        <div className="grid grid-cols-1 lg:mt-16 mt-9  sm:grid-cols-3 gap-10">
+        <div className="grid grid-cols-1 lg:mt-16 mt-9  sm:grid-cols-2 gap-10">
           {products.map((product) => (
             <div
               key={product.id}

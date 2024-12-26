@@ -104,16 +104,16 @@ const Footer = () => {
             <ul className="space-y-2 text-[#E0E0E0]">
               <li className="cursor-pointer">     <Link to="/loadcell" className="text-white hover:text-blue-600 cursor-pointer">Load Cell</Link>
               </li>
-              <li className="cursor-pointer">  <Link to="/loadstaingauge" className="text-white hover:text-blue-600 cursor-pointer">Straingauge    </Link>
-              </li>
+              {/* <li className="cursor-pointer">  <Link to="/loadstaingauge" className="text-white hover:text-blue-600 cursor-pointer">Straingauge    </Link> */}
+              {/* </li> */}
               <li className="cursor-pointer">  <Link to="/loadaccessories" className="text-white hover:text-blue-600 cursor-pointer">Load Accessories   </Link>
               </li>
               <li className="cursor-pointer">     <Link to="/loadindicator" className="text-white hover:text-blue-600 cursor-pointer">Load Indicator</Link>
               </li>
               <li className="cursor-pointer">   <Link to="/loadassembly" className="text-white hover:text-blue-600 cursor-pointer">Load Assembly  </Link>
               </li>
-              <li className="cursor-pointer">   <Link to="/loadamplifier" className="text-white hover:text-blue-600 cursor-pointer">Load Amplifier  </Link>
-              </li>
+              {/* <li className="cursor-pointer">   <Link to="/loadamplifier" className="text-white hover:text-blue-600 cursor-pointer">Load Amplifier  </Link> */}
+              {/* </li> */}
             </ul>
           </div>
 

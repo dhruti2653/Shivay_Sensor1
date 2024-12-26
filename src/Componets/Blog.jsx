@@ -11,7 +11,7 @@ const Blog = () => {
     },
     {
       id: 2,
-      image: "/images/blog-2.png",
+      image: "/images/loadaccessories.webp",
       title: "Enhancing Industrial Automation with Digital Weight Transmitters",
     },
     {
