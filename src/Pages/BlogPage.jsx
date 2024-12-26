@@ -10,7 +10,7 @@ const BlogPage = () => {
     },
     {
       id: 2,
-      image: "/images/blog-2.png",
+      image: "/images/loadaccessories.webp",
       title: "Enhancing Industrial Automation with Digital Weight Transmitters: Choosing the Right One for Your System",
       content: "In the rapidly evolving industrial landscape, precision, efficiency, and seamless integration are crucial. Digital weight transmitters have emerged as indispensable components, revolutionizing how industries measure and manage weight data.",
     },
@@ -28,7 +28,7 @@ const BlogPage = () => {
     },
   ];
 
-  const categories = ["Load-Cell", "Load-Amplifier", "Load-Indicator", "Load-Accessories", "Load-Assembly", "Straingauge"];
+  const categories = ["Load-Cell",  "Load-Indicator", "Load-Accessories", "Load-Assembly"];
   const recentBlogs = ["Understanding Beam Type Load Cells", "Enhancing Industrial Automation with Digital Weight Transmitters", "Choose the Right Single Point Platform Load Cell", "Understanding S-Type Load Cells"];
 
   return (
