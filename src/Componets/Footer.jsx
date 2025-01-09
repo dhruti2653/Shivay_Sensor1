@@ -28,11 +28,13 @@ const Footer = () => {
                 <input
                   type="email"
                   placeholder="Your Email"
+                  required
                   className="px-5 py-3 text-gray-600 text-[15px] rounded-xl bg-white w-full"
                 />
                 <input
                   type="text"
                   placeholder="Your Name"
+                  required
                   className="px-5 py-3 text-gray-600 text-[15px] rounded-xl bg-white w-full"
                 />
               </div>

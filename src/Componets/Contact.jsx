@@ -16,23 +16,23 @@ const Contact = () => {
         <form className="space-y-4">
           <div>
             <label htmlFor="name" className="block text-sm font-medium">Name</label>
-            <input type="text" id="name" className="w-full p-2 border border-gray-300 rounded" placeholder="Your Name" />
+            <input type="text" id="name" className="w-full p-2 border border-gray-300 rounded" placeholder="Your Name" required />
           </div>
           <div>
             <label htmlFor="email" className="block text-sm font-medium">Email</label>
-            <input type="email" id="email" className="w-full p-2 border border-gray-300 rounded" placeholder="Your Email" />
+            <input type="email" id="email" className="w-full p-2 border border-gray-300 rounded" placeholder="Your Email" required />
           </div>
           <div>
             <label htmlFor="phone" className="block text-sm font-medium">Phone</label>
-            <input type="tel" id="phone" className="w-full p-2 border border-gray-300 rounded" placeholder="Your Phone" />
+            <input type="tel" id="phone" className="w-full p-2 border border-gray-300 rounded" placeholder="Your Phone" required />
           </div>
           <div>
             <label htmlFor="subject" className="block text-sm font-medium">Subject</label>
-            <input type="text" id="subject" className="w-full p-2 border border-gray-300 rounded" placeholder="Subject" />
+            <input type="text" id="subject" className="w-full p-2 border border-gray-300 rounded" placeholder="Subject" required />
           </div>
           <div>
             <label htmlFor="message" className="block text-sm font-medium">Message</label>
-            <textarea id="message" className="w-full p-2 border border-gray-300 rounded" rows="4" placeholder="Your Message"></textarea>
+            <textarea id="message" className="w-full p-2 border border-gray-300 rounded" rows="4" placeholder="Your Message" required></textarea>
           </div>
           <div>
             <button type="submit" className="w-full bg-blue-500 text-white p-2 rounded">Submit</button>
