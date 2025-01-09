@@ -23,20 +23,20 @@ const ContactPage = () => {
                 <form className="">
 
                   <label htmlFor="name" className="block text-sm mt-2 font-medium">Name</label>
-                  <input type="text" id="name" className="w-full p-3 border mt-2 border-gray-300 rounded" placeholder="Your Name" />
+                  <input type="text" id="name" className="w-full p-3 border mt-2 border-gray-300 rounded" placeholder="Your Name" required />
 
 
                   <label htmlFor="email" className="block text-sm mt-2 font-medium">Email</label>
-                  <input type="email" id="email" className="w-full p-3 border mt-2 border-gray-300 rounded" placeholder="Your Email" />
+                  <input type="email" id="email" className="w-full p-3 border mt-2 border-gray-300 rounded" placeholder="Your Email" required />
 
                   <label htmlFor="phone" className="block text-sm mt-2 font-medium">Phone</label>
-                  <input type="tel" id="phone" className="w-full p-3 border mt-2 border-gray-300 rounded" placeholder="Your Phone" />
+                  <input type="tel" id="phone" className="w-full p-3 border mt-2 border-gray-300 rounded" placeholder="Your Phone"  required/>
 
                   <label htmlFor="subject" className="block text-sm mt-2 font-medium">Subject</label>
-                  <input type="text" id="subject" className="w-full p-3 border mt-2 border-gray-300 rounded" placeholder="Subject" />
+                  <input type="text" id="subject" className="w-full p-3 border mt-2 border-gray-300 rounded" placeholder="Subject" required />
 
                   <label htmlFor="message" className="block text-sm mt-2 font-medium">Message</label>
-                  <textarea id="message" className="w-full p-3 border border-gray-300 mt-2 rounded" rows="4" placeholder="Your Message"></textarea>
+                  <textarea id="message" className="w-full p-3 border border-gray-300 mt-2 rounded" rows="4" placeholder="Your Message" required></textarea>
                   <div className=''>
                     <button type="submit" className="w-auto px-16 bg-blue-600 text-white mt-3 p-3 rounded">Submit</button>
                   </div>
