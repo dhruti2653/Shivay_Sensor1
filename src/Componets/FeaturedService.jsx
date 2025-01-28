@@ -15,19 +15,19 @@ const FeaturedService = () => {
       image: "/images/service1.png",
       heading: "dianosis and repaire",
       description:
-        "Sivay Sensors provides expert diagnosis and repair services to ensure your systems operate at peak performance.",
+        "Shivay Sensors provides expert diagnosis and repair services to ensure your systems operate at peak performance.",
     },
     {
       image: "/images/service2.png",
       heading: "Inastall & Upgrades",
       description:
-        "Sivay Sensors provides professional installation and upgrade services to enhance your system’s performance and reliability.",
+        "Shivay Sensors provides professional installation and upgrade services to enhance your system’s performance and reliability.",
     },
     {
       image: "/images/service3.png",
       heading: "Electrical maintenance",
       description:
-        "Sivay Sensors offers comprehensive electrical maintenance services to ensure your systems run efficiently and safely.",
+        "Shivay Sensors offers comprehensive electrical maintenance services to ensure your systems run efficiently and safely.",
     },
   ];
 
@@ -36,25 +36,25 @@ const FeaturedService = () => {
     {
       heading: "24/7 availality",
       description:
-        " Sivay Sensors ensure 24/7 availability for seamless performance and uninterrupted operations.",
+        " Shivay Sensors ensure 24/7 availability for seamless performance and uninterrupted operations.",
       icon: <FaRegCalendarTimes className="text-[40px] text-[#3ebbe1] font-medium  " />, // Add the icon directly here
     },
     {
       heading: "Dedicated team",
       description:
-        "Our dedicated team at Sivay Sensors is committed to delivering exceptional service and tailored solutions.",
+        "Our dedicated team at Shivay Sensors is committed to delivering exceptional service and tailored solutions.",
       icon: <FaUser className="text-[40px] text-[#3ebbe1] font-medium" />,
     },
     {
       heading: "Guranteed satisfaction",
       description:
-        "Sivay Sensors guarantees top-quality solutions designed to meet and exceed your expectations.",
+        "Shivay Sensors guarantees top-quality solutions designed to meet and exceed your expectations.",
       icon: <FaRegThumbsUp className="text-[40px] text-[#3ebbe1] font-medium" />,
     },
     {
       heading: "Free Estimaten",
       description:
-        "Sivay Sensors offers free estimates to help you plan your perfect        solution with confidence.",
+        "Shivay Sensors offers free estimates to help you plan your perfect        solution with confidence.",
       icon: <FaRegEdit className="text-[40px] text-[#3ebbe1] font-medium" />,
     },
   ];

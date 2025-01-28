@@ -17,6 +17,9 @@ import LoadAccessories from './Componets/LoadAccessories';
 import LoadAssembly from './Componets/LoadAssembly';
 import LoadStaingauge from './Componets/LoadStaingauge';
 
+
+
+
 function App() {
   return (
    <>

@@ -8,12 +8,12 @@ const Carousel = () => {
     {
       image: "/images/bnn1.jpg",
       title: "Empowering Innovations with Sensors",
-      description: "Our cutting-edge technology drives smarter solutions. Elevate your operations with Sivay Sensors. Delivering unparalleled accuracy and reliability. Designed for industrial and commercial excellence. ",
+      description: "Our cutting-edge technology drives smarter solutions. Elevate your operations with Shivay Sensors. Delivering unparalleled accuracy and reliability. Designed for industrial and commercial excellence. ",
     },
     {
       image: "/images/bnn5.png",
       title: "Trusted Solutions for Modern Challenges",
-      description: "From load cells to amplifiers, we cover it all.  Built to withstand the toughest environments. Sivay Sensors combine advanced technology with precision engineering to deliver unparalleled performance.",
+      description: "From load cells to amplifiers, we cover it all.  Built to withstand the toughest environments. Shivay Sensors combine advanced technology with precision engineering to deliver unparalleled performance.",
     },
   ];
 

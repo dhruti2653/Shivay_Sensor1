@@ -53,9 +53,9 @@ const Footer = () => {
           <div className="space-y-4 lg:pr-8">
             <div className="flex flex-row">
               <img src="../images/logofooter.png" alt="Logo" className="h-20" />
-              <h1 className="text-xl font-semibold pt-6 pl-3">Sivay Sensor</h1>
+              <h1 className="text-xl font-semibold pt-6 pl-3">Shivay Sensor</h1>
             </div>
-            <p>Sivay Sensor provides innovative solutions in the field of weighing systems.</p>
+            <p>Shivay Sensor provides innovative solutions in the field of weighing systems.</p>
             <div className="flex space-x-4 text-2xl text-white">
               {/* Facebook Icon */}
               <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
@@ -108,7 +108,7 @@ const Footer = () => {
               </li>
               {/* <li className="cursor-pointer">  <Link to="/loadstaingauge" className="text-white hover:text-blue-600 cursor-pointer">Straingauge    </Link> */}
               {/* </li> */}
-              <li className="cursor-pointer">  <Link to="/loadaccessories" className="text-white hover:text-blue-600 cursor-pointer">Load Accessories   </Link>
+              <li className="cursor-pointer">  <Link  to="/loadaccessories" className="text-white hover:text-blue-600 cursor-pointer">Load Accessories   </Link>
               </li>
               <li className="cursor-pointer">     <Link to="/loadindicator" className="text-white hover:text-blue-600 cursor-pointer">Load Indicator</Link>
               </li>
