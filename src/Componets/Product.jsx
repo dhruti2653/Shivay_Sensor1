@@ -63,7 +63,7 @@ const ThreeDCarousel = () => {
                         </h1>
                         <hr className="lg:w-[220px] w-[180px] border-[#3ebbe1] border-b-4" />
                         <p className="mt-10 text-[17px] text-[#898989] lg:pr-32">
-                            At Sivay Sensor, we ensure that our long list of customers will not have to compromise on quality. We design, develop, and supply high-standard load cells to various industries including Healthcare, Automotive, Aerospace, and more.
+                            At Shivay Sensor, we ensure that our long list of customers will not have to compromise on quality. We design, develop, and supply high-standard load cells to various industries including Healthcare, Automotive, Aerospace, and more.
                         </p>
                     </div>
                 </div>

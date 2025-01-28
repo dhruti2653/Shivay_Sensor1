@@ -17,7 +17,7 @@ export const Header = () => {
                 <img src="..\images\logo.jpeg" alt="Logo" className="h-20 w-20" />
               </Link>
               <Link to={"/"}>
-              <h1 className="text-xl font-semibold text-gray-800">Sivay sensor</h1>
+              <h1 className="text-xl font-semibold text-gray-800">Shivay sensor</h1>
               </Link>
             </div>
 
