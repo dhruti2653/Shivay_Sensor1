@@ -22,9 +22,10 @@ const ThreeDCarousel = () => {
     const [currentThemeIndex, setCurrentThemeIndex] = useState(0);
     const items = [
         { id: 1, imgSrc: "/images/pan-cakeload-n.jpeg", title: "Load Cell" },
-        { id: 2, imgSrc: "/images/blog-2.png", title: "Load Amplifier" },
+        { id: 2, imgSrc: "/images/Load-Amplifire.jpg", title: "Load Amplifier" },
         { id: 3, imgSrc: "/images/loadIndicator2.webp", title: "Load Indicator" },
-        { id: 4, imgSrc: "/images/loadaccessories.webp", title: "Load Accessories" }
+        { id: 4, imgSrc: "/images/loadaccessories.webp", title: "Load Accessories" },
+        { id: 4, imageSrc: "/images/loadassembly3.png", title: "Load Cell Assembly",}
     ];
 
     const nextSlide = () => {
@@ -69,7 +70,7 @@ const ThreeDCarousel = () => {
                 </div>
 
                 {/* Responsive 3D Carousel */}
-                <div className="slider-container flex flex-col items-center justify-center lg:gap-[2.5rem] sm:gap-[1.5rem] lg:pl-32 m-0 h-auto lg:w-[64rem] mt-9 lg:-mt-16 sm:w-full">
+                <div className="slider-container flex flex-col items-center justify-center lg:gap-[2.5rem] sm:gap-[1.5rem] lg:pl-10 m-0 h-auto lg:w-[64rem] mt-9 lg:-mt-16 sm:w-full">
                     <div className="slider flex flex-row relative w-full lg:h-[80vh] md:h-[60vh] justify-center item-center sm:h-[50vh] sm:p-4 lg:p-8 bg-w">
                         {items.map((item, index) => (
                             <div key={item.id} className="slide bg-white z-10 absolute flex flex-col items-center justify-center rounded-lg shadow-lg lg:w-[17rem] lg:h-[22rem] sm:w-[8rem] sm:h-[12rem] transition-transform duration-700 ease-in-out">
@@ -91,7 +92,7 @@ const ThreeDCarousel = () => {
                 </div>
 
                 {/* Show More Button */}
-                <div className="text-center lg:-mt-5 mb-3 -mt-3">
+                <div className="text-center lg:-mt-5 mb-3 lg:pr-20 -mt-3">
                     <Link
                         to={"/product"}
                         className="text-white bg-[#3ebbe1] px-7 py-3 rounded-lg shadow-lg lg:ml-32">

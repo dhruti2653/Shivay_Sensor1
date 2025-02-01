@@ -71,7 +71,7 @@ const ContactPage = () => {
                   <FaMapMarkerAlt className="lg:text-[60px] text-3xl" />
                   <div>
                     <h3 className="text-xl font-bold">Address</h3>
-                    <p>45, RK Industrial Estate,Bhuvaladi Road, Kathwada</p>
+                    <p>45, RK Industrial Estate, Bhuvaladi Road, Kathwada, Ahemdabad-382430.</p>
                   </div>
                 </div>
               </div>
