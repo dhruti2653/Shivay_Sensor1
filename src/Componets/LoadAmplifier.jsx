@@ -9,13 +9,13 @@ const LoadAmplifier = () => {
     {
       id: 1,
       image: "/images/blog-2.png",
-      title: "RS-10",
+      title: "S-10",
       // link: '/loadcell',
     },
     {
       id: 2,
       image: "/images/loadamplifier1.png",
-      title: "RS-201",
+      title: "S-201",
       // link: '/loadindicator',
     },
 

@@ -8,27 +8,27 @@ const LoadIndicator = () => {
     {
       id: 1,
       image: "/images/Load-indicator-n.jpeg",
-      title: "RS-101",
+      title: "SLI-230",
       // link: '/loadcell',
     },
-    {
-      id: 2,
-      image: "/images/loadIndicator2.webp",
-      title: "RS-102",
-      // link: '/loadindicator',
-    },
-    {
-      id: 3,
-      image: "/images/loadIndicator3.webp",
-      title: "RS-103",
-      // link: '/loadindicator',
-    },
-    {
-      id: 4,
-      image: "/images/loadIndicator4.jpg",
-      title: "RS-104",
-      // link: '/loadindicator',
-    },
+    // {
+    //   id: 2,
+    //   image: "/images/loadIndicator2.webp",
+    //   title: "RS-102",
+    //   // link: '/loadindicator',
+    // },
+    // {
+    //   id: 3,
+    //   image: "/images/loadIndicator3.webp",
+    //   title: "RS-103",
+    //   // link: '/loadindicator',
+    // },
+    // {
+    //   id: 4,
+    //   image: "/images/loadIndicator4.jpg",
+    //   title: "RS-104",
+    //   // link: '/loadindicator',
+    // },
 
 
   ];
@@ -36,9 +36,9 @@ const LoadIndicator = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const images = [
     "/images/Load-indicator-n.jpeg",
-    "/images/loadIndicator2.webp",
-    "/images/loadIndicator3.webp",
-    "/images/loadIndicator4.jpg",
+    // "/images/loadIndicator2.webp",
+    // "/images/loadIndicator3.webp",
+    // "/images/loadIndicator4.jpg",
   ];
 
   // Auto-scroll to the next image every 2 seconds

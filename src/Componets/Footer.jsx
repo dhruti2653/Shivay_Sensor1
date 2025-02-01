@@ -3,6 +3,7 @@ import { FiPhone, FiMail, FiMapPin, FiClock } from "react-icons/fi";
 import {
   FaFacebook,
   FaTwitter,
+  FaYoutube,
   FaInstagram,
   FaMapMarkerAlt,
 } from "react-icons/fa";
@@ -71,6 +72,9 @@ const Footer = () => {
               <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
                 <FaInstagram className="hover:text-[#3ebbe1]" />
               </a>
+              <a href="https://www.youtube.com/@shivaysensor" target="_blank" rel="noopener noreferrer">
+                <FaYoutube className="hover:text-[#3ebbe1]" />
+              </a>
             </div>
 
           </div>
@@ -125,7 +129,7 @@ const Footer = () => {
             <div className="flex items-start space-x-3">
               <FaMapMarkerAlt className="text-[40px]" />
               <span>
-                45, RK Industrial Estate,Bhuvaladi Road, Kathwada
+                45, RK Industrial Estate, Bhuvaladi Road, Kathwada,  Ahemdabad  - 382430.
               </span>
             </div>
             <div className="flex items-start space-x-3">

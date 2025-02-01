@@ -9,25 +9,25 @@ const LoadAssembly = () => {
     {
       id: 1,
       image: "/images/loadassembly1.png",
-      title: "RSL-112RD Assembly",
+      title: "S-112RD Assembly",
       // link: '/loadcell',
     },
     {
       id: 2,
       image: "/images/loadassembly2.png",
-      title: "RSL-203 Assembly",
+      title: "S-203 Assembly",
       // link: '/loadindicator',
     },
     {
       id: 3,
       image: "/images/loadassembly3.png",
-      title: "RSL-803 Assembly",
+      title: "S-803 Assembly",
       // link: '/loadindicator',
     },
     {
       id: 4,
       image: "/images/loadassembly4.png",
-      title: "RSL-803-5T Assembly",
+      title: "S-803-5T Assembly",
       // link: '/loadindicator',
     },
 

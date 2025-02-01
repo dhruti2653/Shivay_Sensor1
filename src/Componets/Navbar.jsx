@@ -19,7 +19,7 @@ const Navbar = () => {
             </div>
             <div className="flex items-center text-white gap-1">
               <FaMapMarkerAlt className="mr-1 text-[22px] text-[#3ebbe1]" />
-              <span> 45, RK Industrial Estate,Bhuvaladi Road, Kathwada</span>
+              <span> 45, RK Industrial Estate, Bhuvaladi Road, Kathwada, Ahemdabad-382430.</span>
             </div>
           </div>
 
