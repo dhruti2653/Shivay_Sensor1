@@ -43,19 +43,7 @@ const LoadCell = () => {
             title: "S Type Load Cell",
             // link: '/loadstaingauge',
         },
-      
-        {
-            id: 7,
-            image: "/images/loadcell-8.png",
-            title: "Single Ended Share Beam Load Cell",
-            // link: '/loadstaingauge',
-        },
-        {
-            id: 8,
-            image: "/images/loadcell-9.png",
-            title: "Web Tension Load Cell",
-            // link: '/loadstaingauge',
-        },
+       
         {
             id: 9,
             image: "/images/load-pin-2-n.jpeg",
@@ -169,11 +157,9 @@ const LoadCell = () => {
         "/images/s-type-loadcell-n.jpeg",
         "/images/Square Drive Reaction Torque Sensor.jpg",
         "/images/Low Profile Loadcell.jpg",
-        "/images/loadcell-8.png",
         "/images/Reaction Static Torque Sensor.jpg",
         "/images/Donut Type Hollow Load Cell.jpg",
         "/images/Ring Type Load Cell.jpg",
-        "/images/loadcell-9.png",
         "/images/load-pin-2-n.jpeg",
         "/images/Shear Beam Loadcell.jpg",
         "/images/Ring Torsion Loadcell.jpg",
